@@ -1,0 +1,5 @@
+1) il y a des méthode inutile que le client n'a pas demandé
+
+2) Un changement dans l'interface de la méthode fax peut impacter la méthode SimplePrinter 
+
+3) Mettre en oeuvre le pattern Adaptateur 
